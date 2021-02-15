@@ -1,3 +1,6 @@
+# About fork
+The main difference from the main branch is that the global saving of settings is made. No more need to connect to the same server every time in a new project
+
 # Jenkins Plugin 0.13.10 for Jetbrains products
 [![Build Status](https://travis-ci.com/MCMicS/jenkins-control-plugin.svg?branch=master)](https://travis-ci.com/MCMicS/jenkins-control-plugin)
 [![Gitter](https://badges.gitter.im/jenkins-control-plugin/community.svg)](https://gitter.im/jenkins-control-plugin/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
